@@ -50,7 +50,7 @@ build   →  useful tools, readable write-ups, and interfaces with personality
 
 | Project | What it is | Focus |
 | :--- | :--- | :---: |
-| [**Cybersecurity Portfolio**](https://github.com/keppyaja/keppyaja.github.io) | A cyberpunk-inspired portfolio with profile, skills, CTF activity, project case studies, Codeforces data, and an interactive write-up archive. | `HTML` `CSS` `JS` |
+| [**Portofolio**](https://github.com/keppyaja/keppyaja.github.io) | A cyberpunk-inspired portfolio with profile, skills, CTF activity, project case studies, Codeforces data, and an interactive write-up archive. | `HTML` `CSS` `JS` |
 | [**Write-Ups**](https://github.com/keppyaja/Write-Ups) | A living archive of CTF solutions covering pwn, web, crypto, reversing, forensics, and miscellaneous challenges. | `CTF` `Markdown` |
 | [**DeployWriteUp**](https://github.com/keppyaja/DeployWriteUp) | A deployment-focused companion for publishing and presenting security write-ups. | `Web` |
 | [**app-perpustakaan**](https://github.com/keppyaja/app-perpustakaan) | A Laravel-based library management application for organizing library workflows and records. | `Laravel` `PHP` |
