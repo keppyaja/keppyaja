@@ -13,7 +13,7 @@
 
 ## `$ whoami`
 
-Hi! I'm **Tsaqif Fawwaz**, better known online as **Skippedx0r**. I'm a **D4 Informatics Engineering student at Politeknik Elektronika Negeri Surabaya** who enjoys turning curiosity into working software, solving CTF challenges, and understanding how systems can be made more secure.
+Hi! I'm **Tsaqif Fawwaz**, better known online as **Skipped**. I'm a **D4 Informatics Engineering student at Politeknik Elektronika Negeri Surabaya** who enjoys turning curiosity into working software, solving CTF challenges, and understanding how systems can be made more secure.
 
 My interests sit at the intersection of:
 
