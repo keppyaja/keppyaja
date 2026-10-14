@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@keppyaja-181717?style=for-the-badge&logo=github)](https://github.com/keppyaja)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keppyaja.github.io)
 [![Write-ups](https://img.shields.io/badge/CTF_Write--ups-Explore-7c3aed?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/keppyaja/Write-Ups)
-[![Profile views](https://komarev.com/ghpvc/?username=keppyaja&style=for-the-badge&color=0e7490)](https://github.com/keppyaja)
+[![Profile views](https://komarev.com/ghpvc/?username=keppyaja&label=PROFILE%20VIEWS&color=0e7490&style=for-the-badge)](https://github.com/keppyaja)
 
 </div>
 
@@ -55,7 +55,6 @@ build   →  useful tools, readable write-ups, and interfaces with personality
 | [**DeployWriteUp**](https://github.com/keppyaja/DeployWriteUp) | A deployment-focused companion for publishing and presenting security write-ups. | `Web` |
 | [**app-perpustakaan**](https://github.com/keppyaja/app-perpustakaan) | A Laravel-based library management application for organizing library workflows and records. | `Laravel` `PHP` |
 | [**PerpustakaanOnline**](https://github.com/keppyaja/PerpustakaanOnline) | An online library project exploring digital access to library content and services. | `Web` |
-| [**portofolio**](https://github.com/keppyaja/portofolio) | An earlier portfolio experiment and a foundation for presenting projects on the web. | `HTML` |
 | [**exploit**](https://github.com/keppyaja/exploit) | A small security experimentation space for learning and testing ideas. | `Security` |
 
 > This profile repository is the index for the work above. For the latest version of my portfolio and write-ups, use the links in the banner.
