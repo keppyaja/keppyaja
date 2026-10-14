@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@keppyaja-181717?style=for-the-badge&logo=github)](https://github.com/keppyaja)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keppyaja.github.io)
 [![Write-ups](https://img.shields.io/badge/CTF_Write--ups-Explore-7c3aed?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/keppyaja/Write-Ups)
-<a href="https://github.com/keppyaja" title="Ye Shunguang"><img src="https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Agent_Ye_Shunguang_Icon.png" width="64" height="64" alt="Ye Shunguang icon" /></a>
+<a href="https://github.com/keppyaja" title="My Istri"><img src="https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Agent_Ye_Shunguang_Icon.png" width="64" height="64" alt="Ye Shunguang icon" /></a>
 
 </div>
 
